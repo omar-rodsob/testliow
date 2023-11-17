@@ -1,0 +1,12 @@
+{
+    "firstName": "Omar",
+    "lastName":"Rodriguez Soberanes",
+    "email": "omar.rodsob@gmail.com",
+    "phone": "+5216621393007",
+    "cLetter":"This job application was fully automated with webdrive.io, you can check the code in the following git repository: https://github.com/omar-rodsob/testliow",
+    "location":"Guadalajara, Mexico central time",
+    "hourrate":"30",
+    "linkedinProfile":"https://www.linkedin.com/in/omarrodsob/",
+    "experience":"As far as apis automation is concerned, I have worked testing apis with post for around 5 years, working in agile environments with ci/cd through gitlab, running tests in the pipelines linking them to qtest and jira through qtest.\n\nThe UI automation was mostly done with cypress, and webdrive.io, for around 5 years, with the same environments mentioned in API automation.\n\nI have worked for more than 10 years in agile processes such as scrum and kanban, experience with version systems such as git, and task systems such as jira.\n\nThis job application was fully automated with webdrive.io, you can check the code in the following git repository: https://github.com/omar-rodsob/testliow",
+    "workingStatus":"unmployee"
+  }
