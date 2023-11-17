@@ -27,7 +27,7 @@ describe('Job Application Form', () => {
         await AppPage.typeHourRate(user.hourrate);
         await AppPage.typeworkingstatus(user.workingStatus);
         await browser.pause(50000);
-        //await AppPage.clickSubmit();  
+        await AppPage.clickSubmit();  
     })
 })
 
